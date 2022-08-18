@@ -1,2 +1,4 @@
 
 I love Java
+
+I study Java
